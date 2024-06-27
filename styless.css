@@ -4,6 +4,7 @@
 
 body {
     background-color: black;
+    height: 100vh;
 }
 
 .post {
@@ -26,7 +27,7 @@ body {
 }
 
 .icon {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 h1, h2 {
@@ -69,9 +70,11 @@ img {
     font-family: 'Roboto', sans-serif;
     padding-top: 15px;
     margin-left:15px;
+    font-size: 14px;
 }
 .parrafo_footer{
     font-family: 'Roboto', sans-serif;
+    font-size: 12px;
     padding-top: 5px;
     margin-left:15px;
     padding-bottom: 25px;
